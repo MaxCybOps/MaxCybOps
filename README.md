@@ -18,7 +18,8 @@
 I am a Mechatronics Engineering student at the Federal University of Technology Owerri (FUTO), graduating 2026. I build at the intersection of cybersecurity, AI/ML, and blockchain — with a focus on infrastructure that makes AI execution verifiable, trustless, and accessible.
 
 I am the founder of **Aletheia** — a verifiable AI trading infrastructure built on 0G — and I have shipped products across DeFi, property technology, healthcare, and cloud infrastructure. I do not just build prototypes. I build things that work.
-```python
+```
+python
 maxwell = {
     "focus"       : ["AI Infrastructure", "Web3/DeFi", "Cybersecurity", "HealthTech"],
     "languages"   : ["Python", "Go", "Solidity", "JavaScript", "TypeScript"],
@@ -28,7 +29,16 @@ maxwell = {
     "location"    : "Nigeria 🇳🇬"
 }
 ```
+─────────────────────────────
+TECHNICAL BACKGROUND
+─────────────────────────────
 
+Languages: Python, Go, Solidity, JavaScript, TypeScript
+AI/ML: LangChain, GPT-4o, ONNX, scikit-learn, prompt engineering
+Blockchain: 0G, Base, Ethereum, Hardhat, Uniswap V3, EVM
+Backend: FastAPI, Node.js, Supabase, PostgreSQL, Redis
+Frontend: React, Vite, Tailwind CSS, RainbowKit, Wagmi
+Security: Penetration testing, malware analysis, smart contract security, OSINT
 ---
 
 ## Projects
@@ -109,7 +119,14 @@ A machine learning classifier for real-time malware detection trained on behavio
 - 📚 Paursing my Master's Degree
 
 ---
+─────────────────────────────
+LET'S CONNECT
+─────────────────────────────
 
+I am always open to conversations about AI infrastructure, Web3 development, building in Nigeria, and anything that sits at the edge of what technology can do.
+
+GitHub: @MaxCybOps
+Twitter/X: @Max_cyberguru
 <div align="center">
 
 *"Build things that prove themselves."*
