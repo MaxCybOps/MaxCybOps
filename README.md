@@ -1,180 +1,203 @@
-<h1 align="center">Ogbodo Uchenna Maxwell Adrian</h1>
-<h3 align="center">Cybersecurity Specialist · AI/ML Engineer · Full-Stack Developer · Blockchain Engineer</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=2E75B6&center=true&vCenter=true&width=600&lines=5+Years+in+Cybersecurity+%26+Technology;Penetration+Tester+%7C+SOC+Analyst;AI-Driven+Security+Researcher;Full-Stack+%26+Blockchain+Developer;Open+to+Remote+Opportunities+Worldwide" alt="Typing SVG" />
-</p>
+# Ogbodo Uchenna Maxwell Adrian
+### AI/Web3 Infrastructure Engineer · Cybersecurity Specialist · Technical Founder
 
-<p align="center">
-  <a href="https://linkedin.com/in/uchenna-ogbodo-5bb270235" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:ogbodomaxwell23@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://medium.com/@ogbodomaxwell23" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
-  </a>
-  <a href="https://github.com/MaxCybOps" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+[![Twitter](https://img.shields.io/badge/@MaxCybOps-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/Max_Cyberguru)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ogbodo-maxwell)
+[![GitHub](https://img.shields.io/badge/MaxCybOps-181717?style=flat&logo=github&logoColor=white)](https://github.com/MaxCybOps)
+
+*Building verifiable AI infrastructure, decentralised systems, and health technology for Africa and beyond.*
+
+</div>
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-I am a multidisciplinary technology professional with over 5 years of experience across cybersecurity, artificial intelligence, software engineering, and blockchain development. Based in Lagos, Nigeria, I hold a B.Eng in Mechatronics Engineering from the Federal University of Technology, Owerri (FUTO) — a foundation that gave me a systems-level understanding of how hardware, software, and networks interact, and how they fail.
+I am a Mechatronics Engineering student at the Federal University of Technology Owerri (FUTO), graduating 2026. I build at the intersection of cybersecurity, AI/ML, and blockchain — with a focus on infrastructure that makes AI execution verifiable, trustless, and accessible.
 
-Over the course of my career I have worked across both offensive and defensive security — conducting penetration tests, building SOC environments, simulating advanced persistent threats, and delivering professional VAPT reports to real organizations. I have also built full-stack applications, trained machine learning models for security use cases, and integrated blockchain technology into production-ready platforms. This breadth is not accidental — I believe that the most effective security professionals are those who understand how systems are built, because that is the only way to truly understand how they are broken.
-
-What drives me professionally is the challenge of solving problems that sit at the boundary of disciplines. My AI-driven malware classifier, for instance, was born from the question — what if we could detect threats that signature databases have never seen before? That kind of thinking, applied consistently, is what I bring to every project I work on.
-
-I am currently open to remote opportunities in cybersecurity, AI/ML engineering, full-stack development, and blockchain engineering. I work with precision, document everything professionally, and communicate clearly with both technical and non-technical stakeholders.
-
----
-
-## 🔧 What I Do
-
-**🔐 Cybersecurity & Penetration Testing**
-I conduct full-lifecycle penetration testing across web, API, mobile, IoT, and SCADA environments — from reconnaissance and exploitation through to privilege escalation, lateral movement, and post-exploitation analysis. Every engagement is documented with professional VAPT reports aligned to ISO 27001, NIST 800-53, MITRE ATT&CK, and PCI-DSS frameworks, with clear CVSS scoring and actionable remediation guidance. On the defensive side, I build and operate SOC environments using Splunk, Wazuh, and ELK Stack, design detection rules and dashboards, and develop incident response playbooks tailored to real-world threat scenarios including nation-state APT campaigns.
-
-**🤖 AI & Machine Learning**
-I apply machine learning to real-world security and engineering problems. My AI-driven malware classifier uses static analysis of Portable Executable files to detect malicious software without relying on signature databases — achieving 78% accuracy using a Random Forest pipeline trained on 1,000 samples. I am formally trained in supervised and unsupervised learning, CNNs, sequence models, reinforcement learning, transformers, generative AI, and large language models through Oracle Cloud Infrastructure AI Foundations, with 80–100% scores across all assessments.
-
-**💻 Full-Stack Software Development**
-I build clean, functional, well-documented applications using JavaScript, TypeScript, React, Python, and Golang. My development philosophy is security-first — every application I build incorporates access controls, input validation, and threat modeling from day one. My recent full-stack project, Aletheia, demonstrates this approach: a complete property management platform with a Go backend, Supabase database, Paystack payment integration, and real-time SMS and email notifications.
-
-**⛓️ Blockchain & Web3 Engineering**
-I design and build blockchain-integrated systems that are powerful under the hood but invisible to end users. Aletheia anchors every rent payment to the 0G Chain and stores lease agreements on decentralized storage — without requiring any crypto knowledge from landlords or tenants. I also bring smart contract security awareness to every Web3 engagement, with training in Solidity, DeFi, DAOs, NFTs, and account abstraction through Cyfrin Updraft.
+I am the founder of **Aletheia** — a verifiable AI trading infrastructure built on 0G — and I have shipped products across DeFi, property technology, healthcare, and cloud infrastructure. I do not just build prototypes. I build things that work.
+```python
+maxwell = {
+    "focus"       : ["AI Infrastructure", "Web3/DeFi", "Cybersecurity", "HealthTech"],
+    "languages"   : ["Python", "Go", "Solidity", "JavaScript", "TypeScript"],
+    "stack"       : ["React", "FastAPI", "Node.js", "Hardhat", "LangChain"],
+    "blockchain"  : ["0G", "Base", "Ethereum", "Uniswap V3", "EVM"],
+    "currently"   : "Building Aletheia — verifiable AI trading infrastructure on 0G",
+    "location"    : "Nigeria 🇳🇬"
+}
+```
 
 ---
 
-## 🛠️ Technical Skills
+## Projects
 
-**Cybersecurity**
+### ⬡ Aletheia — Verifiable AI Trading Infrastructure
+> *Automate any DeFi strategy. Trust no one. Prove everything.*
 
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burp-suite&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white)
-![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=flat-square&logo=nmap&logoColor=white)
-![OWASP](https://img.shields.io/badge/OWASP-000000?style=flat-square&logo=owasp&logoColor=white)
-![Wazuh](https://img.shields.io/badge/Wazuh-005571?style=flat-square&logo=wazuh&logoColor=white)
+Aletheia lets anyone describe a trading strategy in plain English and deploys it as a private, encrypted AI agent that executes trades autonomously — generating cryptographic proof of every decision through the **Triple Proof Chain** (Proof of Source + Proof of Inference + Proof of Rulebook Adherence). Non-custodial vaults. Real-world signal verification via the Watcher. Built on 0G Storage and 0G Inference.
 
-**AI & Machine Learning**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-
-**Software Development**
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
-
-**Blockchain & Web3**
-
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
-![Web3](https://img.shields.io/badge/Web3-F16822?style=flat-square&logo=web3.js&logoColor=white)
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
-
-**Cloud & Infrastructure**
-
-![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?style=flat-square&logo=oracle&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
+`Go` `Python` `Solidity` `React` `0G` `FastAPI` `LangChain` `Uniswap V3`
 
 ---
 
-## 💼 Professional Experience
+### 🏠 ZEN — Blockchain Property Management
+> *Every lease. Every payment. Verified on-chain.*
 
-**Cybersecurity Instructor** — CiphronSec Academy & HelloTech Academy *(Remote, 2025)*
-Delivered comprehensive training in SOC operations, penetration testing, red team tactics, and cybersecurity fundamentals. Mentored students preparing for CEH, Security+, and CCNA Cyber Ops certifications. Designed hands-on labs in SIEM monitoring, incident response, malware analysis, and vulnerability management, with curriculum modules aligned to MITRE ATT&CK, NIST CSF, and ISO 27001.
+ZEN is a modern, blockchain-backed property management platform built for the Nigerian market. Landlords manage full property portfolios. Tenants pay rent via Paystack in Naira. Every lease is auto-generated and stored permanently. Every payment is anchored to Base (Coinbase L2) — no crypto wallet required from users.
 
-**Cybersecurity Trainee — Advanced Cyber Warfare Program** — ICDFA *(Remote, 2025)*
-Executed phishing simulations, ransomware labs, and DDoS attack scenarios with full mitigation implementation. Conducted VAPT on web, mobile, and API systems. Delivered advanced reports mapped to MITRE ATT&CK, Cyber Kill Chain, and NIST 800-53.
-
-**AI Foundations Trainee** — Oracle Cloud Infrastructure, Oracle University *(Remote, 2025)*
-Completed 8 modules covering AI, ML, deep learning, generative AI, and LLMs. Achieved 80–100% scores across all skill checks. Applied prompt engineering and LLM customization using Oracle Generative AI services.
-
-**Cybersecurity & VAPT Intern** — Digitanotion Limited *(Remote, 2024)*
-Conducted manual penetration testing across web, API, and mobile applications using Burp Suite Pro, OWASP ZAP, SQLMap, Nikto, and Metasploit. Identified and exploited critical flaws including SQLi, XSS, IDOR, and broken authentication. Delivered ISO 27001-aligned VAPT reports with CVSS scoring and remediation guidance.
-
-**SOC Analyst Trainee** — Tech Crush Cybersecurity Bootcamp *(Remote, 2024)*
-Monitored and analyzed security alerts using Splunk, Wazuh, and ELK Stack. Investigated brute-force attempts, insider threats, and lateral movement. Designed SIEM detection rules and dashboards and participated in mock ISO 27001 audit preparations.
-
-**Red Team Trainee** — EvolveHQ Cybersecurity Bootcamp *(Remote, 2024)*
-Performed penetration tests using Metasploit, privilege escalation techniques, and post-exploitation methods. Designed social engineering and phishing campaigns. Delivered CVE-mapped vulnerability reports and assisted in patch validation.
-
-**Industrial Trainee — Network & Systems Security** — Transmission Company of Nigeria (TCN) *(Onsite, 2024)*
-Monitored SCADA systems for operational and cyber-physical security risks in Nigeria's national grid. Supported patch management, vulnerability scanning, fault detection, and failover planning for critical infrastructure.
+`Go` `Supabase` `Vanilla JS` `Paystack` `Base` `Solidity`
 
 ---
 
-## 🚀 Featured Projects
+### 🏥 CCESS POINT — Health Intelligence Ecosystem
+> *The gateway to intelligent healthcare.*
 
-| Project | Description | Stack |
-|---------|-------------|-------|
-| [🔬 AI Malware Classifier](https://github.com/MaxCybOps/AI-Machine_Learning-Malware_Classifier) | ML pipeline for static PE file analysis. Detects malware without signature databases. 78% accuracy. | Python · Scikit-Learn · Random Forest |
-| [🏠 Aletheia](https://github.com/OdogwuML/aletheia) | Blockchain-backed property management platform. Every lease and payment verified on-chain. | Go · Supabase · 0G Chain · Paystack |
-| [♿ Smart Solar Wheelchair](https://github.com/MaxCybOps) | Solar-powered assistive wheelchair with Arduino Nano, IR obstacle avoidance, and three control modes. | Arduino · Embedded C · IR Sensors |
-| [🛡️ Cybersecurity Portfolio](https://github.com/MaxCybOps) | Penetration testing engagements, SOC simulations, VAPT reports, and incident response case studies. | Burp Suite · Metasploit · Splunk · Wazuh |
+A health intelligence ecosystem integrating AI, IoT, and blockchain to serve rural communities across Nigeria. AI triage via SMS/USSD, IoT vitals collection for community health workers, blockchain-secured patient records, medicine verification via QR/SMS, and a donor transparency dashboard. Built and validated through field research with 15+ health workers and 30–40 families across Nsukka, Agbani, Udi, and Obe.
 
----
+*DTC Challenge — Enugu Tech Fest 2026*
 
-## 📜 Certifications & Training
-
-| Certification | Issuing Body | Year |
-|--------------|--------------|------|
-| Oracle Cloud Infrastructure AI Foundations | Oracle University | 2025 |
-| Google Cybersecurity Professional Certificate | Google / Coursera | 2024 |
-| Advanced Cyber Warfare & Professional Cybersecurity Training | ICDFA | 2025 |
-| ISO 27001:2022 — Information Security Management Systems | ISO | 2024 |
-| ISO 31000:2018 — Risk Management Principles | ISO | 2024 |
-| ISO 28001:2007 — Supply Chain Security | ISO | 2024 |
-| CCNA Cyber Ops | Cisco Networking Academy | 2024 |
-| Blockchain Security Track | Cyfrin Updraft | 2025 |
-| Solidity Basics & Blockchain Foundation | Cyfrin Updraft | 2026 |
-| Software Development Cohort VI | Power Learn Project | 2026 |
-| SOC Analyst & Blue Team Operations | Tech Crush Bootcamp | 2024 |
-| Ethical Hacking & Vulnerability Management (CEH) | EvolveHQ Bootcamp | 2024 |
-| Practical Ethical Hacking & Red Team Operations | Udemy | 2024 |
-| AI Agent Engineer | Udemy | 2025 |
-| Blue Team Security — Penetration Testing | Blue Team Security | 2024 |
-| Cybersecurity Fundamentals | Great Learning | 2024 |
-| Network Security | Lets Defend | 2024 |
-| Offensive Security & Red Teaming | Digitanotion | 2024 |
-| CompTIA Security+ | CompTIA | In Progress |
+`Python` `LangChain` `Blockchain` `IoT` `SMS/USSD`
 
 ---
 
-## 📊 GitHub Activity
+### ☁️ Hybrid Cloud Educational Simulator
+> *Visualising hybrid cloud infrastructure for educational institutions.*
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MaxCybOps&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaxCybOps&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
+An interactive Python/Streamlit simulation tool modelling hybrid cloud architecture for educational institutions. Covers four real-world scenarios (Normal Operations, Exam Peak, Growth, Off-Peak), 24-hour load distribution, cost breakdown, service distribution across private/public clouds, and comparative analysis against private-only and public-only deployments.
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MaxCybOps&theme=tokyonight&hide_border=true" width="60%" />
-</p>
+`Python` `Streamlit` `Plotly` `Pandas` `NumPy`
 
 ---
 
-<p align="center">
-  <i>"Security is not a product, it is a process — and I am committed to making that process excellent."</i>
-</p>
+### 🔒 AI Malware Classifier v2.0
+> *Real-time malware detection using machine learning.*
 
-<p align="center">
-  📍 Lagos, Nigeria &nbsp;|&nbsp; 🌍 Open to Remote Opportunities Worldwide &nbsp;|&nbsp; 📧 ogbodomaxwell23@gmail.com
-</p>
+A machine learning classifier for real-time malware detection trained on behavioural and static features. Deployed as part of a broader cybersecurity toolkit.
+
+`Python` `scikit-learn` `ML` `Cybersecurity`
+
+---
+
+## Hackathons & Competitions
+
+| Event | Year | Project | Result |
+|---|---|---|---|
+| 0G Labs AI Infrastructure Hackathon, Lagos | 2025 | Aletheia — first prototype | Competed |
+| Enugu Tech Fest DTC Challenge | 2026 | CCESS POINT — rural health ecosystem | Competed |
+| Web3 Track Hackathon | 2026 | ZEN — blockchain property management | Competed |
+
+---
+
+## Skills
+
+**Languages:** Python · Go · Solidity · JavaScript · TypeScript · HTML/CSS
+**AI/ML:** LangChain · GPT-4o · ONNX · scikit-learn · Prompt Engineering
+**Blockchain:** 0G · Base · Ethereum · Hardhat · Uniswap V3 · ERC-20 · EVM
+**Backend:** FastAPI · Node.js · Go · Supabase · PostgreSQL · Redis
+**Frontend:** React · Vite · Tailwind CSS · shadcn/ui · RainbowKit · Wagmi
+**Security:** Penetration Testing · Malware Analysis · Smart Contract Security · OSINT
+**Cloud:** AWS · Azure · Hybrid Cloud Architecture · Docker
+
+---
+
+## Currently
+
+- 🔨 Building **Aletheia** — web app in active development
+- 👥 Growing the Aletheia team
+- 📚 Paursing my Master's Degree
+
+---
+
+<div align="center">
+
+*"Build things that prove themselves."*
+
+**ogbodomaxwell23@gmail.com · +234 706 278 2519**
+
+</div>
+```
+
+---
+
+# DOCUMENT 2 — LinkedIn About Section
+```
+I build at the intersection of AI, blockchain, and cybersecurity — with a focus on infrastructure that makes AI execution verifiable, trustless, and accessible to anyone.
+
+I am a Mechatronics Engineering student at the Federal University of Technology Owerri (FUTO), graduating 2025. My work spans DeFi infrastructure, property technology, health systems, and cloud architecture — all grounded in the same conviction: that the systems people depend on should be provable, not just promising.
+
+─────────────────────────────
+WHAT I'M BUILDING
+─────────────────────────────
+
+→ Aletheia — Verifiable AI trading infrastructure built on 0G.
+Describe your strategy in plain English. Aletheia compiles it into an encrypted AI agent, executes trades autonomously, and generates cryptographic proof of every decision through the Triple Proof Chain. Your funds never leave your personal vault. Every decision is provable on-chain. Currently in active development — web application launching soon.
+
+→ ZEN — Blockchain-backed property management for Nigeria.
+Landlords manage portfolios. Tenants pay rent in Naira via Paystack. Every lease is auto-generated and stored permanently. Every payment is anchored to Base (Coinbase L2). No crypto wallet required. Built with Go, Supabase, and Solidity.
+
+─────────────────────────────
+RECENT WORK
+─────────────────────────────
+
+→ CCESS POINT — DTC Challenge, Enugu Tech Fest 2026
+A health intelligence ecosystem for rural Nigeria integrating AI triage via SMS/USSD, IoT vitals collection, blockchain-secured patient records, medicine verification, and a donor transparency dashboard. Validated through field research with health workers and families across Nsukka, Agbani, Udi, and Obe.
+
+→ Hybrid Cloud Educational Simulator
+An interactive simulation tool modelling hybrid cloud infrastructure for educational institutions — covering four real-world load scenarios, cost analysis, and deployment model comparison.
+
+→ AI Malware Classifier v2.0
+A machine learning system for real-time malware detection trained on behavioural and static features.
+
+→ 0G Labs AI Infrastructure Hackathon, ETF- Enugu, Nigeria (2026)
+Built the first prototype of Aletheia — integrating 0G Storage, 0G Inference, and non-custodial smart contract vaults.
+
+─────────────────────────────
+TECHNICAL BACKGROUND
+─────────────────────────────
+
+Languages: Python, Go, Solidity, JavaScript, TypeScript
+AI/ML: LangChain, GPT-4o, ONNX, scikit-learn, prompt engineering
+Blockchain: 0G, Base, Ethereum, Hardhat, Uniswap V3, EVM
+Backend: FastAPI, Node.js, Supabase, PostgreSQL, Redis
+Frontend: React, Vite, Tailwind CSS, RainbowKit, Wagmi
+Security: Penetration testing, malware analysis, smart contract security, OSINT
+
+─────────────────────────────
+LET'S CONNECT
+─────────────────────────────
+
+I am always open to conversations about AI infrastructure, Web3 development, building in Nigeria, and anything that sits at the edge of what technology can do.
+
+GitHub: @MaxCybOps
+Twitter/X: @max_cyberguru
+Email: ogbodomaxwell23@gmail.com
+```
+
+---
+
+# DOCUMENT 3 — Twitter/X Bio
+
+**Display name:** `Max.OG`
+**Bio (158 characters):**
+```
+Founder @Aletheia_Fi · AI/Web3 infrastructure engineer · Building verifiable AI trading infrastructure on @0G_labs · Cybersecurity · FUTO · Nigeria 🇳🇬
+```
+
+**Pinned tweet suggestion:**
+```
+What I'm building and why:
+
+→ @AletheiaFi — verifiable AI trading infrastructure on @0G_labs
+   Every decision your bot makes, proven on-chain. Forever.
+
+→ ZEN — blockchain property management for Nigeria
+   Every lease. Every payment. On-chain. No crypto wallet needed.
+
+→ CCESS POINT — AI + IoT + blockchain for rural healthcare
+   Built with and for communities across Enugu, Imo, and beyond.
+
+I build things that prove themselves.
+
+🇳🇬 FUTO · Mechatronics · Graduating 2026
