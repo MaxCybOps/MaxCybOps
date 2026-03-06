@@ -90,13 +90,13 @@ A machine learning classifier for real-time malware detection trained on behavio
 
 ## Skills
 
-**Languages:** Python · Go · Solidity · JavaScript · TypeScript · HTML/CSS
-**AI/ML:** LangChain · GPT-4o · ONNX · scikit-learn · Prompt Engineering
-**Blockchain:** 0G · Base · Ethereum · Hardhat · Uniswap V3 · ERC-20 · EVM
-**Backend:** FastAPI · Node.js · Go · Supabase · PostgreSQL · Redis
-**Frontend:** React · Vite · Tailwind CSS · shadcn/ui · RainbowKit · Wagmi
-**Security:** Penetration Testing · Malware Analysis · Smart Contract Security · OSINT
-**Cloud:** AWS · Azure · Hybrid Cloud Architecture · Docker
+- **Languages:** Python · Go · Solidity · JavaScript · TypeScript · HTML/CSS
+- **AI/ML:** LangChain · GPT-4o · ONNX · scikit-learn · Prompt Engineering
+- **Blockchain:** 0G · Base · Ethereum · Hardhat · Uniswap V3 · ERC-20 · EVM
+- **Backend:** FastAPI · Node.js · Go · Supabase · PostgreSQL · Redis
+- **Frontend:** React · Vite · Tailwind CSS · shadcn/ui · RainbowKit · Wagmi
+- **Security:** Penetration Testing · Malware Analysis · Smart Contract Security · OSINT
+- **Cloud:** AWS · Azure · Hybrid Cloud Architecture · Docker
 
 ---
 
