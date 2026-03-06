@@ -28,17 +28,6 @@ maxwell = {
     "location"    : "Nigeria 🇳🇬"
 }
 ```
-─────────────────────────────
-TECHNICAL BACKGROUND
-─────────────────────────────
-
-Languages: Python, Go, Solidity, JavaScript, TypeScript
-AI/ML: LangChain, GPT-4o, ONNX, scikit-learn, prompt engineering
-Blockchain: 0G, Base, Ethereum, Hardhat, Uniswap V3, EVM
-Backend: FastAPI, Node.js, Supabase, PostgreSQL, Redis
-Frontend: React, Vite, Tailwind CSS, RainbowKit, Wagmi
-Security: Penetration testing, malware analysis, smart contract security, OSINT
-
 
 ## Projects
 
