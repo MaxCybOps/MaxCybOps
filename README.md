@@ -56,7 +56,7 @@ ZEN is a modern, blockchain-backed property management platform built for the Ni
 
 A health intelligence ecosystem integrating AI, IoT, and blockchain to serve rural communities across Nigeria. AI triage via SMS/USSD, IoT vitals collection for community health workers, blockchain-secured patient records, medicine verification via QR/SMS, and a donor transparency dashboard. Built and validated through field research with 15+ health workers and 30–40 families across Nsukka, Agbani, Udi, and Obe.
 
-*DTC Challenge — Enugu Tech Fest 2026*
+*Design Thinking Challenge (DTC) — Enugu Tech Fest 2026*
 
 `Python` `LangChain` `Blockchain` `IoT` `SMS/USSD`
 
@@ -84,7 +84,7 @@ A machine learning classifier for real-time malware detection trained on behavio
 
 | Event | Year | Project | Result |
 |---|---|---|---|
-| 0G Labs AI Infrastructure Hackathon, Lagos | 2025 | Aletheia — first prototype | Competed |
+| 0G Labs AI Infrastructure Hackathon, ETF - Enugu,Nigeria | 2026 | Aletheia — first prototype | Competed |
 | Enugu Tech Fest DTC Challenge | 2026 | CCESS POINT — rural health ecosystem | Competed |
 | Web3 Track Hackathon | 2026 | ZEN — blockchain property management | Competed |
 
