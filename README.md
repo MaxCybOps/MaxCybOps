@@ -16,7 +16,6 @@
 ## About Me
 
 I am a Mechatronics Engineering graduate from the Federal University of Technology Owerri (FUTO), 2025. I build at the intersection of cybersecurity, AI/ML, and blockchain, with a focus on infrastructure that makes AI execution verifiable, trustless, and accessible.
-
 I am the founder of **Aletheia** — a verifiable AI trading infrastructure built on 0G — and I have shipped products across DeFi, property technology, healthcare, and cloud infrastructure. I do not just build prototypes. I build things that work.
 ```python
 maxwell = {
@@ -34,7 +33,7 @@ maxwell = {
 ### ⬡ Aletheia — Verifiable AI Trading Infrastructure
 > *Automate any DeFi strategy. Trust no one. Prove everything.*
 
-Aletheia lets anyone describe a trading strategy in plain English and deploys it as a private, encrypted AI agent that executes trades autonomously — generating cryptographic proof of every decision through the **Triple Proof Chain** (Proof of Source + Proof of Inference + Proof of Rulebook Adherence). Non-custodial vaults. Real-world signal verification via the Watcher. Built on 0G Storage and 0G Inference.
+Aletheia lets anyone describe a trading strategy in plain English and deploys it as a private, encrypted AI agent that executes trades autonomously, generating cryptographic proof of every decision through the **Triple Proof Chain** (Proof of Source + Proof of Inference + Proof of Rulebook Adherence). Non-custodial vaults. Real-world signal verification via the Watcher. Built on 0G Storage and 0G Inference.
 
 `Go` `Python` `Solidity` `React` `0G` `FastAPI` `LangChain` `Uniswap V3`
 
@@ -43,7 +42,7 @@ Aletheia lets anyone describe a trading strategy in plain English and deploys it
 ### 🏠 ZEN — Blockchain Property Management
 > *Every lease. Every payment. Verified on-chain.*
 
-ZEN is a modern, blockchain-backed property management platform built for the Nigerian market. Landlords manage full property portfolios. Tenants pay rent via Paystack in Naira. Every lease is auto-generated and stored permanently. Every payment is anchored to Base (Coinbase L2) — no crypto wallet required from users.
+ZEN is a modern, blockchain-backed property management platform built for the Nigerian market. Landlords manage full property portfolios. Tenants pay rent via Paystack in Naira. Every lease is auto-generated and stored permanently. Every payment is anchored to Base (Coinbase L2), no crypto wallet required from users.
 
 `Go` `Supabase` `Vanilla JS` `Paystack` `Base` `Solidity`
 
@@ -107,13 +106,14 @@ A machine learning classifier for real-time malware detection trained on behavio
 - 📚 Paursing my Master's Degree
 
 ---
--─────────────────────────────
--LET'S CONNECT
--─────────────────────────────
+## 
+─────────────────────────────
+LET'S CONNECT
+─────────────────────────────
 I am always open to conversations about AI infrastructure, Web3 development, building in Nigeria, and anything that sits at the edge of what technology can do.
-
--GitHub: @MaxCybOps
--Twitter/X: @Max_cyberguru
+##
+GitHub: @MaxCybOps
+Twitter/X: @Max_cyberguru
 <div align="center">
 
 *"Build things that prove themselves."*
