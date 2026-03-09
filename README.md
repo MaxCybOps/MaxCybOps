@@ -107,18 +107,17 @@ A machine learning classifier for real-time malware detection trained on behavio
 - 📚 Paursing my Master's Degree
 
 ---
-─────────────────────────────
-LET'S CONNECT
-─────────────────────────────
----
+-─────────────────────────────
+-LET'S CONNECT
+-─────────────────────────────
 I am always open to conversations about AI infrastructure, Web3 development, building in Nigeria, and anything that sits at the edge of what technology can do.
----
-GitHub: @MaxCybOps
-Twitter/X: @Max_cyberguru
+
+-GitHub: @MaxCybOps
+-Twitter/X: @Max_cyberguru
 <div align="center">
----
+
 *"Build things that prove themselves."*
----
+
 **ogbodomaxwell23@gmail.com · +234 706 278 2519**
 
 </div>
