@@ -15,7 +15,7 @@
 
 ## About Me
 
-I am a Mechatronics Engineering student at the Federal University of Technology Owerri (FUTO), graduating 2026. I build at the intersection of cybersecurity, AI/ML, and blockchain — with a focus on infrastructure that makes AI execution verifiable, trustless, and accessible.
+I am a Mechatronics Engineering graduate from the Federal University of Technology Owerri (FUTO), 2025. I build at the intersection of cybersecurity, AI/ML, and blockchain, with a focus on infrastructure that makes AI execution verifiable, trustless, and accessible.
 
 I am the founder of **Aletheia** — a verifiable AI trading infrastructure built on 0G — and I have shipped products across DeFi, property technology, healthcare, and cloud infrastructure. I do not just build prototypes. I build things that work.
 ```python
@@ -110,15 +110,15 @@ A machine learning classifier for real-time malware detection trained on behavio
 ─────────────────────────────
 LET'S CONNECT
 ─────────────────────────────
-
+---
 I am always open to conversations about AI infrastructure, Web3 development, building in Nigeria, and anything that sits at the edge of what technology can do.
-
+---
 GitHub: @MaxCybOps
 Twitter/X: @Max_cyberguru
 <div align="center">
-
+---
 *"Build things that prove themselves."*
-
+---
 **ogbodomaxwell23@gmail.com · +234 706 278 2519**
 
 </div>
