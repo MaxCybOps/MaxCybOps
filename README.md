@@ -40,10 +40,10 @@ maxwell = {
 
 ## Projects
 
-### Syfx AI — Verifiable Agentic Finance Operating System
-> *Trade without Trust. Proven by Math.*
+### Syfx AI: The Verifiable Agentic Trading OS
+> *Trading is no longer a game of guessing. It is a game of verified intelligence.*
 
-An AI trading infrastructure that generates a Zero-Knowledge cryptographic proof for every trade decision before execution. Built on a multi-service architecture spanning Python, Go, Rust, and Solidity. Features a non-custodial smart contract vault per user, a multi-source Oracle intelligence engine, a RISC Zero ZK proof pipeline, and cross-chain execution across Ethereum, Solana, Base, and 0G Network.
+Syfx AI is a non-custodial, AI-powered operating system designed to automate, verify, and secure financial execution across the digital asset landscape. Built on the principle of **Zero-Trust Intelligence**, Syfx ensures that every trade is backed by a multi-source cryptographic proof, executed via non-custodial vaults, and recorded permanently as a ZK-verified receipt.
 
 `Python` `Go` `Rust` `Solidity` `React` `TypeScript` `RISC Zero` `0G` `Gemini AI` `FastAPI` `Uniswap V3` `Jupiter DEX`
 
