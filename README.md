@@ -24,12 +24,12 @@ maxwell = {
     "education"    : "B.Eng Mechatronics Engineering — FUTO, 2025",
     "location"     : "Nigeria 🇳🇬 — building for the world",
     "languages"    : ["Python", "Go", "Rust", "Solidity", "TypeScript", "JavaScript", "Bash"],
-    "blockchain"   : ["Ethereum", "Solana", "Base", "0G Network", "Arbitrum", "ERC-20", "EVM"],
+    "blockchain"   : ["Stellar", "Soroban", "Ethereum", "Solana", "Base", "0G Network", "Arbitrum", "ERC-20", "EVM"],
     "zk_systems"   : ["RISC Zero zkVM", "ZK-SNARKs", "Host/Guest programs", "On-chain proof verification"],
     "security"     : ["VAPT", "Red Team", "SOC Analysis", "OSINT", "Incident Response", "ISO 27001"],
     "ai"           : ["Gemini 1.5 Pro", "LLM integration", "AI agent architecture", "Prompt engineering"],
     "backend"      : ["FastAPI", "Go Orchestrator", "Supabase", "PostgreSQL", "Redis"],
-    "frontend"     : ["React 18", "Vite", "Tailwind CSS", "Framer Motion", "ethers.js"],
+    "frontend"     : ["Next.js 16", "React 18", "Vite", "Tailwind CSS", "Framer Motion", "ethers.js"],
     "infra"        : ["Railway", "Vercel", "Docker", "AWS basics", "AES-256 Keystore"],
     "sec_tools"    : ["Burp Suite", "Metasploit", "Nmap", "Wireshark", "Splunk", "Wazuh", "Shodan"],
     "frameworks"   : ["MITRE ATT&CK", "NIST 800-53", "ISO 27001", "OWASP Top 10", "Cyber Kill Chain"],
@@ -46,6 +46,15 @@ maxwell = {
 Syfx AI is a non-custodial, AI-powered operating system designed to automate, verify, and secure financial execution across the digital asset landscape. Built on the principle of **Zero-Trust Intelligence**, Syfx ensures that every trade is backed by a multi-source cryptographic proof, executed via non-custodial vaults, and recorded permanently as a ZK-verified receipt.
 
 `Python` `Go` `Rust` `Solidity` `React` `TypeScript` `RISC Zero` `0G` `Gemini AI` `FastAPI` `Uniswap V3` `Jupiter DEX`
+
+---
+
+### Clowee: The Voice-First Decentralized Workforce Command Center
+> *Orchestrating a trustless digital workforce using Soroban smart contract escrows.*
+
+Clowee is a voice-first, non-custodial AI Project Manager and Recruiter powered by the Stellar Network. By combining sub-200ms low-latency conversation with Soroban smart contract security, Clowee acts as a professional mediator that translates high-level user visions into coordinated multi-agent squads, securing their payments transparently on-chain via neutral cryptographic vaults.
+
+`TypeScript` `Next.js 16` `Stellar` `Soroban Smart Contracts` `OpenAI` `ElevenLabs` `Tailwind CSS` `Framer Motion` `WebGL Shaders`
 
 ---
 
