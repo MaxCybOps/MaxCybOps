@@ -149,14 +149,23 @@ My security work is not academic. I have done real client engagements, advanced 
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MaxCybOps&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaxCybOps&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+<h3>⚡ Git Activity & Contributions ⚡</h3>
 
-</div>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MaxCybOps&theme=tokyo-night&bg_color=00000000&hide_border=true" width="100%" />
 
-<div align="center">
+<br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MaxCybOps&theme=tokyonight&hide_border=true"/>
+<img height="195em" src="https://github-readme-stats.vercel.app/api?username=MaxCybOps&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github" />
+<img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaxCybOps&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MaxCybOps&theme=tokyonight&hide_border=true" />
+
+<br/><br/>
+
+<h4>🏆 GitHub Trophies</h4>
+<img src="https://github-profile-trophy.vercel.app/?username=MaxCybOps&theme=tokyonight&no-bg=true&no-frame=true" width="100%" />
 
 </div>
 
