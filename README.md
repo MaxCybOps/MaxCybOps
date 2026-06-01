@@ -15,7 +15,7 @@
 
 ## About Me
 
-I'm a Mechatronics Engineering graduate from the Federal University of Technology Owerri (FUTO) and a technical builder from Nigeria. I work across cybersecurity, blockchain, AI infrastructure, and systems engineering — and I care about building things that actually work, not just things that look good in a pitch deck.
+I'm a Mechatronics Engineering graduate from the Federal University of Technology Owerri (FUTO) and a technical builder from Nigeria. I work across cybersecurity, blockchain, AI infrastructure, and systems engineering, and I care about building things that actually work, not just things that look good in a pitch deck.
 
 My background is genuinely cross-disciplinary. I've done real client penetration testing, built and deployed smart contracts on mainnet, written ZK proof systems in Rust, architected multi-service AI backends in Python and Go, and completed advanced cyber warfare training. I don't specialise in one lane. I build across all of them.
 
